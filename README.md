@@ -6,3 +6,5 @@ mean_of_three - takes three numbers and averages them
 average_of_five - takes five numbers and averages the five median numbers.
 
 average_of_twelve - takes twelve numbers and averages the ten median numbers.
+
+The library returns all numbers rounded to the hundreths place.
